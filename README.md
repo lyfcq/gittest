@@ -1,2 +1,2 @@
 # gittest
-learn git
+Git study
